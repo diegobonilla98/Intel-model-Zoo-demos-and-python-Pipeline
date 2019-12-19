@@ -6,5 +6,5 @@ Then the python pipeline just executes the demo using the subprocess library and
 A huge problem is that uses the webcam so no other program can use it. I'm trying to recreate all the neural models with free databases so I can manipulate them better.
 
 This images are a couple of awkward screenshots of the head_pose_estimator+age+emo+gender and the gaze estimator:
-[!Head demo](intel_face_demo.png)
-[!Gaze demo](intel_gaze_demo.png)
+![Head demo](intel_face_demo.png)
+![Gaze demo](intel_gaze_demo.png)
